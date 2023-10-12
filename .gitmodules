@@ -1,0 +1,3 @@
+[submodule "futte-newspaper"]
+	path = futte-newspaper
+	url = git@github.com:hsdevel/futte-newspaper.git
